@@ -1,4 +1,4 @@
-;Windows
+;Windows run
 ;nasm -f win32 hello.asm
 ;link /subsystemm:console /entry:main hello.obj kernel32.lib
 ;hello.exe
